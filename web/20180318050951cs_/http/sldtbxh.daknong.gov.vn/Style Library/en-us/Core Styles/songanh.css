@@ -707,7 +707,7 @@ ul.ui-tabs-nav li a:hover {
 	text-decoration: none;
 }
 ul.ui-tabs-nav li.ui-tabs-selected a {
-	color: #c50000;
+	color: #fff;
 }
 .news-tab-thumb {
 	width:296px;
@@ -2006,6 +2006,16 @@ h1, h2 {
 .ui-tabs .ui-tabs-nav li.ui-tabs-selected {
 	margin-bottom: 0;
 	padding-bottom: 1px;
+	background: url(../../../../../../20180613113120im_/http%253A/sldtbxh.daknong.gov.vn/imgSonganh/title-menu-cq-bg2.png) no-repeat right top;
+    display: inline-block;
+    height: 30px;
+    color: white !important;
+    padding-left: 13px;
+    font-weight: bold;
+    line-height: 30px;
+    line-height: 30px;
+    padding-right: 40px;
+    text-transform: uppercase;
 }
 .ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a {
 	cursor: text;
